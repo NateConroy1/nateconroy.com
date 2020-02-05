@@ -1,0 +1,7 @@
+enable  : true
+title   : Work Experience
+clientsLogo:
+  - image : images/clients/alexa-logo.png
+  - image : images/clients/aws-logo.png
+  - image : images/clients/lm-logo.png
+  - image : images/clients/ur-logo.png

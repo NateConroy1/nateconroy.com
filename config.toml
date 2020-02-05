@@ -1,0 +1,64 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Nate Conroy"
+theme = "timer-hugo"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Navbar Menus
+[[menu.nav]]
+name    = "resume"
+url     = "pdfs/NathanConroyResume.pdf"
+weight  = 2
+[[menu.nav]]
+name    = "projects"
+url     = "gallery"
+weight  = 3
+[[menu.nav]]
+name    = "github"
+url     = "https://github.com/NateConroy1"
+weight  = 4
+[[menu.nav]]
+name    = "linkedin"
+url     = "https://www.linkedin.com/in/nconroy/"
+weight  = 5
+[[menu.nav]]
+name    = "email"
+url     = "mailto:conroy.nathanm@gmail.com"
+weight  = 6
+
+# Site Params
+[params]
+home = "Home"
+# Meta data
+description = "Software Engineer based out of San Francisco, CA"
+author = "Nate Conroy"
+# Google Analitycs
+googleAnalitycsID = ""
+
+# Banner Section
+[params.banner]
+enable  = true
+bgImage = "images/tyler_blur.png"
+sigImage = "images/whiteSig.svg"
+description = "Software Engineer based out of San Francisco, CA"
+
+# Homepage About Section
+[params.about]
+enable  = true
+title   = "Hi, I'm Nate."
+content = "I'm a software developer based out of San Francisco, CA. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean suscipit sodales ante a pretium. Nam pretium sollicitudin nisi nec scelerisque. Aenean sed hendrerit neque, eleifend fringilla nibh. Mauris convallis eget nisl vel gravida. Nam vel rutrum elit, at interdum purus. Mauris rhoncus neque sit amet tincidunt molestie. Nunc et sagittis tortor. Quisque cursus volutpat nunc. Nullam finibus eu erat nec fringilla. Sed nunc justo, congue nec ex nec, eleifend egestas odio.<br><br>Sed fringilla sapien ut hendrerit ultrices. Curabitur non mollis turpis. Morbi lobortis convallis ipsum, quis vestibulum orci mollis et. Sed sed libero lectus. Mauris lectus magna, pulvinar sit amet sollicitudin lacinia, lobortis egestas tellus. Sed tempus purus at lorem cursus, eu consectetur velit ultrices. Aliquam nec scelerisque mi. Proin semper libero vitae cursus rhoncus. Nam pharetra ultricies accumsan. Etiam luctus urna felis, quis imperdiet sem maximus nec. Nullam non metus tristique, laoreet mi id, bibendum velit. In suscipit ipsum risus, et facilisis mauris viverra at. Praesent elementum pulvinar ullamcorper."
+image   = "images/nate.jpeg"
+
+# social icon
+[[params.socialIcon]]
+icon = "ion-social-facebook"
+url = "https://www.facebook.com/nate.conroy1"
+
+[[params.socialIcon]]
+icon = "ion-social-instagram"
+url = "https://www.instagram.com/nateconroy1/"
+
+[[params.socialIcon]]
+icon = "ion-social-linkedin"
+url = "https://www.linkedin.com/in/nconroy/"
