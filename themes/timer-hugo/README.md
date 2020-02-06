@@ -29,7 +29,7 @@ Timer Hugo is designed by Themefisher team and contributed by <a href="https://g
 |---|---|---|---|
 | ![About page](https://user-images.githubusercontent.com/37659754/54080449-36da5600-431a-11e9-8848-424a385c4ba2.png) | ![Service page](https://user-images.githubusercontent.com/37659754/54080452-380b8300-431a-11e9-8f5f-7ba7fd07a864.png) | ![Gallary page](https://user-images.githubusercontent.com/37659754/54080451-3772ec80-431a-11e9-8b72-4e6c6b8a64a2.png) | ![Contact page](https://user-images.githubusercontent.com/37659754/54080450-36da5600-431a-11e9-90db-0a55971c1fe3.png)
 
-[Live Demo](https://demo.themefisher.com/timer-hugo/).
+[Live Demo](http://demo.themefisher.com/timer-hugo/).
 
 ## Installation
 
@@ -41,7 +41,7 @@ $ cd themes
 $ git clone github.com:themefisher/timer-hugo.git
 ```
 
-[Full Documentation](https://demo.themefisher.com/timer-hugo/blog/installation/).
+[Full Documentation](http://demo.themefisher.com/timer-hugo/blog/installation/).
 
 
 ## Main features

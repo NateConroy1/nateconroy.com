@@ -47,7 +47,7 @@ Launching the website locally by using the following command:
 hugo serve
 ```
 
-Go to `https://localhost:1313`
+Go to `http://localhost:1313`
 
 Or you can check this video documentation for installing this template:
 {{< youtube Ezd_STvPJbA >}}
