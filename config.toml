@@ -1,4 +1,4 @@
-baseURL = "http://www.nateconroy.com/"
+baseURL = "https://www.nateconroy.com/"
 languageCode = "en-us"
 title = "Nate Conroy"
 theme = "timer-hugo"
