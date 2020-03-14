@@ -10,22 +10,22 @@ theme = "timer-hugo"
 name    = "resume"
 url     = "pdfs/NathanConroyResume.pdf"
 weight  = 2
-[[menu.nav]]
-name    = "projects"
-url     = "gallery"
-weight  = 3
+# [[menu.nav]]
+# name    = "projects"
+# url     = "gallery"
+# weight  = 3
 [[menu.nav]]
 name    = "github"
 url     = "https://github.com/NateConroy1"
-weight  = 4
+weight  = 3
 [[menu.nav]]
 name    = "linkedin"
 url     = "https://www.linkedin.com/in/nconroy/"
-weight  = 5
+weight  = 4
 [[menu.nav]]
 name    = "email"
 url     = "mailto:conroy.nathanm@gmail.com"
-weight  = 6
+weight  = 5
 
 # Site Params
 [params]
@@ -33,7 +33,7 @@ home = "Home"
 # Meta data
 description = "Software Engineer based out of San Francisco, CA"
 author = "Nate Conroy"
-# Google Analitycs
+# Google Analytics
 googleAnalitycsID = ""
 
 # Banner Section
@@ -47,7 +47,7 @@ description = "Software Engineer based out of San Francisco, CA"
 [params.about]
 enable  = true
 title   = "Hi, I'm Nate."
-content = "I'm a software developer based out of San Francisco, CA. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean suscipit sodales ante a pretium. Nam pretium sollicitudin nisi nec scelerisque. Aenean sed hendrerit neque, eleifend fringilla nibh. Mauris convallis eget nisl vel gravida. Nam vel rutrum elit, at interdum purus. Mauris rhoncus neque sit amet tincidunt molestie. Nunc et sagittis tortor. Quisque cursus volutpat nunc. Nullam finibus eu erat nec fringilla. Sed nunc justo, congue nec ex nec, eleifend egestas odio.<br><br>Sed fringilla sapien ut hendrerit ultrices. Curabitur non mollis turpis. Morbi lobortis convallis ipsum, quis vestibulum orci mollis et. Sed sed libero lectus. Mauris lectus magna, pulvinar sit amet sollicitudin lacinia, lobortis egestas tellus. Sed tempus purus at lorem cursus, eu consectetur velit ultrices. Aliquam nec scelerisque mi. Proin semper libero vitae cursus rhoncus. Nam pharetra ultricies accumsan. Etiam luctus urna felis, quis imperdiet sem maximus nec. Nullam non metus tristique, laoreet mi id, bibendum velit. In suscipit ipsum risus, et facilisis mauris viverra at. Praesent elementum pulvinar ullamcorper."
+content = "I'm a Syracuse, NY native and an alumnus of the University of Rochester, where I graduated with a Bachelor of Science in Computer Science and a concentration in Human-Computer Interaction. Throughout my career I have grown as a reliable developer, faced with the challenge of fast paced agile environments in which I was expected to write efficient and sustainable code for extremely high traffic services with rigid release schedules. My interests include backend and web application development, balancing my love/hate relationship with distance running, and craft beer (not necessarily in that order).<br><br>Prior to San Francisco I was living in Boston, where I was working as a software engineer at Amazon for Alexa’s automated speech recognition engine. I worked to develop and support new features for the cloud speech-to-text engine that reduced latency and improved recognition accuracy for customers around the world. I gained valuable operational experience in this role as a member of our on-call rotation, in which I investigated and resolved issues that posed risks of delaying critical software releases and impacting customer experience. I was also a member of the release team responsible for deploying new engine versions to production.<br><br>During college I also worked as an intern at Amazon Web Services and Lockheed Martin, where I was fortunate to have been mentored by passionate and talented veterans in my field. I've come to love open-ended problems, and I enjoy the challenge of learning new languages, frameworks, and other technologies."
 image   = "images/nate.jpeg"
 
 # social icon
