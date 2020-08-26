@@ -34,7 +34,7 @@ home = "Home"
 description = "Software Engineer based out of San Francisco, CA"
 author = "Nate Conroy"
 # Google Analytics
-googleAnalitycsID = ""
+googleAnalitycsID = "UA-176408435-2"
 
 # Banner Section
 [params.banner]
