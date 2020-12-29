@@ -1,6 +1,7 @@
 enable  : true
 title   : Work Experience
 clientsLogo:
+  - image : images/clients/roblox-logo.svg
   - image : images/clients/alexa-logo.png
   - image : images/clients/aws-logo.png
   - image : images/clients/lm-logo.png
