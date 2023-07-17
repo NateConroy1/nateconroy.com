@@ -40,7 +40,7 @@ googleAnalitycsID = "UA-176408435-2"
 [params.banner]
 enable  = true
 bgImage = "images/tyler_blur.png"
-sigImage = "images/whiteSig.svg"
+sigImage = "images/whiteSigNoMiddle.svg"
 description = "Software Engineer based out of San Francisco, CA"
 
 # Homepage About Section
